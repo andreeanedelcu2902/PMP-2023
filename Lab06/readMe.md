@@ -10,4 +10,4 @@ Pentru θ = 0.2: Cu o probabilitate scăzută ca un client să cumpere produsul,
 
 Pentru θ = 0.5: Cu o probabilitate mai mare ca un client să cumpere produsul, distribuția a posteriori a lui n se va deplasa spre valori mai mari, deoarece datele observate susțin o medie mai mare a lui n.
 
-În concluzie, numărul de clienți care cumpără produsul (Y) și probabilitatea ca un client să cumpere produsul (θ) au un impact semnificativ asupra distribuției a posteriori a lui n. Cu cât mai mulți clienți cumpără produsul și cu cât probabilitatea de achiziționare este mai mare, cu atât distribuția a posteriori se deplasează spre valori mai mari ale lui n, reflectând o așteptare mai mare pentru numărul total de clienți în magazin.
+În concluzie, numărul de clienți care cumpără produsul (Y) și probabilitatea ca un client să cumpere produsul (θ) au un impact semnificativ asupra distribuției a posteriori a lui n. Cu cât mai mulți clienți cumpără produsul și cu cât probabilitatea de achiziționare este mai mare, cu atât distribuția a posteriori se deplasează spre valori mai mari ale lui n, rezultand o așteptare mai mare pentru numărul total de clienți în magazin.
